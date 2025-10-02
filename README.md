@@ -10,8 +10,8 @@ Sin mucho más que añadir y entendiendo que todos los que van a ver reposit ent
   - **[bursting/](./python/bursting)** → Scripts relacionados con "bursting".
   - **[codes/](./python/codes)** → Fragmentos de código y utilidades.
   - **[csv/](./python/csv)** → Archivos de datos en formato CSV.
-- **[task/](./python/task)** → Notebooks principales del proyecto:
-  - [1_context.ipynb](./python/task/1_context.ipynb) → Contexto inicial del análisis.
-  - [2_Visibility_embedding_graph.ipynb](./python/task/2_Visibility_embedding_graph.ipynb) → Gráficos y embeddings de visibilidad.
+- **[task/](./task)** → Notebooks principales del proyecto:
+  - [1_context.ipynb](./task/1_context.ipynb) → Contexto inicial del análisis.
+  - [2_Visibility_embedding_graph.ipynb](./task/2_Visibility_embedding_graph.ipynb) → Gráficos y embeddings de visibilidad.
   - [3_Shapelets.ipynb](./python/task/3_Shapelets.ipynb) → Análisis con Shapelets.
   - [4_histplot.ipynb](./python/task/4_histplot.ipynb) → Visualización de histogramas.
