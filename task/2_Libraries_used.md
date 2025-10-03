@@ -1,4 +1,4 @@
-# 1. Resources and references
+# Resources and references
 
 I’ve put together some resources and references using Python. These are the main libraries that supported my analyses, computations, and visualizations in the tasks/projects done during the internship.
 
