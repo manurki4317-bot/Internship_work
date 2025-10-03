@@ -2,8 +2,8 @@
 
 I’ve put together some resources and references using Python. These are the main libraries that supported my analyses, computations, and visualizations in the tasks/projects done during the internship.
 
-
-**· Core numerical and scientific computing:**
+    
+  **Core numerical and scientific computing:**
 
 NumPy – Fundamental library for numerical computing, arrays, and linear algebra.
 
