@@ -10,6 +10,7 @@ Several parts of this book—including sections of Markdown content, were genera
 
 - **[Tasks/proyects done](./task)**: Main notebooks of the projects.
   - **[Context](./task/1_context.ipynb)**: Initial context of the analysis.
+  - **[Resources and references](./task/2_Libraries used.md)**
   - **[Visibility graph and 2D and 3D embedding.ipynb](./task/2_Visibility_embedding_graph.ipynb)**: Visibility graphs and embeddings.
   - **[Shapelets.ipynb](./task/3_Shapelets.ipynb)**: Shapelets analysis.
   - **[UMAP and Histplot.ipynb](./task/4_histplot.ipynb)**: "Clustering" representation of bursts with UMAP and histogram with bursts.
