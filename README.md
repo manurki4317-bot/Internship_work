@@ -1,4 +1,4 @@
-# Internship_work
+# Internship work
 This repository serves as a record of all the work I completed during my internship at BCAM (Basque Center for Applied Mathematics).
 
 **Repository structure**
