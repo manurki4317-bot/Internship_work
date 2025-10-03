@@ -6,25 +6,25 @@ I’ve put together some resources and references using Python. These are the ma
     
 **Core numerical and scientific computing:**
 
-[NumPy](https://www.w3schools.com/python/numpy/numpy_intro.asp) – Fundamental library for numerical computing, arrays, and linear algebra.
+[NumPy](https://www.w3schools.com/python/numpy/numpy_intro.asp): Fundamental library for numerical computing, arrays, and linear algebra.
 
-SciPy – Scientific computing, including signal processing (find_peaks, hilbert) and interpolation (interp1d).
+[SciPy](https://www.w3schools.com/python/scipy/scipy_intro.php): Scientific computing, including signal processing (find_peaks, hilbert) and interpolation (interp1d).
 
-os – Provides a way of interacting with the operating system.
+[os](https://docs.python.org/3.10/library/os.html): Provides a way of interacting with the operating system.
 
 **Data handling and manipulation:**
 
-pandas – Data structures and analysis tools (DataFrame, Series).
+[pandas](https://pypi.org/project/pandas/): Data structures and analysis tools (DataFrame, Series).
 
-tslearn – Time-series machine learning, including preprocessing (TimeSeriesScalerMinMax) and shapelets learning (LearningShapelets).
+[tslearn](https://pypi.org/project/tslearn/): Time-series machine learning, including preprocessing (TimeSeriesScalerMinMax) and shapelets learning (LearningShapelets).
 
 **Statistics and metrics:**
 
-scipy.stats – Provides statistical functions such as skew and kurtosis.
+[scipy.stats](https://docs.scipy.org/doc/scipy/tutorial/stats.html): Provides statistical functions such as skew and kurtosis.
 
-numpy.linalg – Linear algebra operations, e.g. least squares (lstsq).
+[numpy.linalg](https://numpy.org/doc/2.1/reference/routines.linalg.html): Linear algebra operations, e.g. least squares (lstsq).
 
-scikit-learn (sklearn) – Tools for machine learning and model evaluation:
+[scikit-learn](https://pypi.org/project/scikit-learn/) (sklearn): Tools for machine learning and model evaluation:
 
   TruncatedSVD for dimensionality reduction.
 
@@ -34,30 +34,30 @@ scikit-learn (sklearn) – Tools for machine learning and model evaluation:
 
 **Signal processing and electrophysiology**
 
-pyABF – Specialized library to read and analyze Axon Binary Files (ABF) from electrophysiology experiments.
+[pyABF](https://swharden.com/pyabf/): Specialized library to read and analyze Axon Binary Files (ABF) from electrophysiology experiments.
 
 **Machine learning and dimensionality reduction**
 
-UMAP – Dimensionality reduction and visualization technique.
+[UMAP](https://umap-learn.readthedocs.io/en/latest/): Dimensionality reduction and visualization technique.
 
-TensorFlow/Keras – Deep learning framework (used here with the Adam optimizer).
+[TensorFlow/Keras](https://pypi.org/project/tf-keras/): Deep learning framework (used here with the Adam optimizer).
 
 **Graphs and network analysis**
 
-networkx – Creation, analysis, and visualization of complex networks/graphs.
+[networkx](https://networkx.org/documentation/stable/tutorial.html): Creation, analysis, and visualization of complex networks/graphs.
 
 **Plotting and visualization**
 
-matplotlib – Standard Python plotting library.
+[matplotlib](https://pypi.org/project/matplotlib/): Standard Python plotting library.
 
-matplotlib.cm – Colormap handling for visualizations.
+[matplotlib.cm](https://matplotlib.org/stable/api/cm_api.html): Colormap handling for visualizations.
 
-seaborn – High-level statistical data visualization built on matplotlib.
+[seaborn](https://pypi.org/project/seaborn/): High-level statistical data visualization built on matplotlib.
 
-plotly.express – Interactive plotting library.
+[plotly.express](https://plotly.com/python/plotly-express/): Interactive plotting library.
 
-plotly.io – Lower-level interface for rendering plotly figures.
+[plotly.io](https://plotly.com/python-api-reference/generated/plotly.io.html): Lower-level interface for rendering plotly figures.
 
 **Jupyter utilities**
 
-%matplotlib widget – Enables interactive plots within Jupyter notebooks.
+[%matplotlib widget](https://matplotlib.org/stable/api/widgets_api.html): Enables interactive plots within Jupyter notebooks.
