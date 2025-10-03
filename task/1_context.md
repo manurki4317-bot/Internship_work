@@ -1,9 +1,9 @@
 # Spike and Burst Analysis with ABF Files
 
-Este repository se encarga de visualizar y explicar bervemente diferentes métodos para detectar brusts clasificarlos y buscar métodos efectivos en los que se buscan patrones y propiedades que foementen su futura mejor identificación.
+This repository focuses on visualizing and briefly explaining different methods to detect *bursts*, classify them, and explore effective techniques to find patterns and properties that can improve their identification in the future.
 
 
-## Lo que se ha hecho los proyectos/tasks
+## What has been done in the projects/tasks
 - Detect action potentials (*spikes*).  
 - Find burst patterns (*bursts*).  
 - Calculate basic stats (mean, ISI, area under curve, etc.).  
