@@ -18,3 +18,4 @@ Several parts of this book, including sections of Markdown content, were generat
   - **[bursts .abf's](./python/bursting)**: abf files with the data to be studied.
   - **[tasks codes](./python/codes)**: Python codes done for each task.
   - **[csv's](./python/csv)**:Files with data in CSV format.
+- **[Images of each of the projects/tasks](./)**
