@@ -17,4 +17,4 @@ Este repository se encarga de visualizar y explicar bervemente diferentes métod
 - `umap-learn`, `scikit-learn`: dimensionality reduction  
 
 **For deeper an complementary information realetd to the used packages and libraries: 
-  [A](./task/2_Libraries_used.md)**
+  [Resources and references](./task/2_Libraries_used.md)**
