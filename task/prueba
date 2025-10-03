@@ -1,0 +1,70 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Comprehensive Spike and Burst Analysis with Visibility Graphs\n",
+    "This notebook provides a detailed workflow for analyzing electrophysiological ABF recordings. It goes through the following steps:\n",
+    "\n",
+    "- Loading ABF files and concatenating sweeps\n",
+    "- Spike detection\n",
+    "- Burst detection\n",
+    "- Burst classification\n",
+    "- Saving bursts to CSV\n",
+    "- Visibility graph creation for each burst\n",
+    "- 2D and 3D embeddings of the burst graphs\n",
+    "- Visualization of spikes, bursts, and graphs\n",
+    "- Saving nodes and edges data to CSV\n",
+    "\n",
+    "Each section includes detailed explanations of the code functionality and rationale behind each step."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Reference Screenshot\n",
+    "This screenshot shows an example of the spike and burst analysis:\n",
+    "\n",
+    "![Spike and Burst Analysis](./Nueva carpeta/task1/Captura_de_pantalla_2025-10-02_080635.png)\n",
+    "\n",
+    "> Make sure the image file is uploaded to the same folder as the notebook, or adjust the path accordingly."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pyabf  # Reads ABF electrophysiology files\n",
+    "import numpy as np  # Numerical operations\n",
+    "import pandas as pd  # DataFrames and CSV handling\n",
+    "import matplotlib.pyplot as plt  # Plotting\n",
+    "import networkx as nx  # Graph creation and analysis\n",
+    "from scipy.signal import find_peaks  # Spike detection\n",
+    "from sklearn.decomposition import TruncatedSVD  # Embedding\n",
+    "%matplotlib widget"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "file_path = \"bursting/cell89basal.abf\"\n",
+    "abf = pyabf.ABF(file_path)\n",
+    "\n",
+    "# Concatenate all sweeps\n",
+    "signal = np.concatenate([abf.setSweep(i) or abf.sweepY for i in range(abf.sweepCount)])\n",
+    "dt = 1.0 / abf.dataRate\n",
+    "time = np.arange(len(signal)) * dt\n",
+    "\n",
+    "print(f\"File: {file_path} | sweeps: {abf.sweepCount} | total duration: {time[-1]:.2f} s\")"
+   ]
+  }
+  // ... resto de celdas sigue igual ...
+ ]
+}
