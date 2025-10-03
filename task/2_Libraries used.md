@@ -6,7 +6,7 @@ I’ve put together some resources and references using Python. These are the ma
     
 **Core numerical and scientific computing:**
 
-NumPy – Fundamental library for numerical computing, arrays, and linear algebra.
+[NumPy](https://www.w3schools.com/python/numpy/numpy_intro.asp) – Fundamental library for numerical computing, arrays, and linear algebra.
 
 SciPy – Scientific computing, including signal processing (find_peaks, hilbert) and interpolation (interp1d).
 
