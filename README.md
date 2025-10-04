@@ -20,3 +20,6 @@ Several parts of this book, including sections of Markdown content, were generat
   - **[csv's](./python/csv)**:Files with data in CSV format.
 - **[Images of each of the projects/tasks](./Images_outputs)**: Images of the projects/tasks done
   - **[Task1 images](./Images_outputs/Task1)** 
+  - **[Task2 images](./Images_outputs/Task2)**
+  - **[Task3 images](./Images_outputs/Task3)**
+  - **[Task4 images](./Images_outputs/Task4)** 
