@@ -7,10 +7,11 @@ The repository is designed as a log of my progress throughout the internship. Ra
 
 - **[Tasks/proyects done](./task)**: Main notebooks of the projects.
   - **[Context](./task/1_context.md)**: Initial context of the analysis.
-  - **[Resources and references](./task/2_Libraries_used.md)**
+  - **[Resources and references](./task/2_Libraries_used.md)** Packages and libraries used. There are links to access to the information related to each library used.
   - **[Visibility graph and 2D and 3D embedding.ipynb](./task/2_Visibility_embedding_graph.ipynb)**: Visibility graphs and embeddings.
   - **[Shapelets.ipynb](./task/3_Shapelets.ipynb)**: Shapelets analysis.
   - **[UMAP and Histplot.ipynb](./task/4_histplot.ipynb)**: "Clustering" representation of bursts with UMAP and histogram with bursts.
+    **Just in case, for better understanding and interpretation of the code is suggested to download directly the codes and to analyse them better in Virtual Studio Code**
 - **[Python related content](.python)**: Codes, csv's, and abf's used for the tasks.
   - **[bursts .abf's](./python/bursting)**: abf files with the data to be studied.
   - **[tasks codes](./python/codes)**: Python codes done for each task. Tthe best way to understand the codes is to download them and to create a new .py or .ipynb and interact there with the code and its explanations.
