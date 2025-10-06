@@ -11,6 +11,8 @@ This repository focuses on visualizing and briefly explaining different methods 
 - Explore conditions in reduced dimensions, including application of machine learning algorithms, among others
 
 ## Tools
+- Coding program: Python 3.13
+- Libraries and packages used during programming
 - `pyabf`: read `.abf` files  
 - `numpy`, `pandas`, `scipy`: math & stats  
 - `matplotlib`, `seaborn`, `plotly`: plots  
