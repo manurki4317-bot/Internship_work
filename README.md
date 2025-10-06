@@ -12,7 +12,7 @@ The repository is designed as a log of my progress throughout the internship. Ra
   - **[Shapelets.ipynb](./task/3_Shapelets.ipynb)**: Shapelets analysis.
   - **[UMAP and Histplot.ipynb](./task/4_histplot.ipynb)**: "Clustering" representation of bursts with UMAP and histogram with bursts.
     
-     **Just in case, for better understanding and interpretation of the code is suggested to download directly the codes and to analyse them better in Virtual Studio Code**
+     **Just in case, for better understanding and interpretation of the code it is suggested to download directly the codes and to analyse them better in Virtual Studio Code**
 - **[Python related content](.python)**: Codes, csv's, and abf's used for the tasks.
   - **[bursts .abf's](./python/bursting)**: abf files with the data to be studied.
   - **[tasks codes](./python/codes)**: Python codes done for each task. Tthe best way to understand the codes is to download them and to create a new .py or .ipynb and interact there with the code and its explanations.
