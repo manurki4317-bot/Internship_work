@@ -8,7 +8,7 @@ This repository focuses on visualizing and briefly explaining different methods 
 - Find burst patterns (bursts).  
 - Calculate basic stats (mean, ISI, area under curve, etc.).  
 - Classify activity by shape and timing.  
-- Explore conditions in reduced dimensions, among others
+- Explore conditions in reduced dimensions, including application of machine learning algorithms, among others
 
 ## Tools
 - `pyabf`: read `.abf` files  
