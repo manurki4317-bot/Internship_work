@@ -4,9 +4,6 @@ This repository serves as a record of all the work I completed during my interns
 **Repository structure:**  
 The repository is designed as a log of my progress throughout the internship. Rather than providing introductory explanations of basic concepts, it focuses directly on the specific topics, analyses, and results that I worked on. This makes it a useful reference both for myself and for anyone interested in following the steps of the developed tasks.
 
-Several parts of this book, including sections of Markdown content, were generated or refined with the assistance of ChatGPT, which also provided guidance on the setup and construction of the Jupyter Book itself. While this tool was valuable for drafting and organization, the responsibility for the final structure, interpretations, and any remaining errors lies with me.
-
-
 
 - **[Tasks/proyects done](./task)**: Main notebooks of the projects.
   - **[Context](./task/1_context.md)**: Initial context of the analysis.
