@@ -13,7 +13,7 @@ The repository is designed as a log of my progress throughout the internship. Ra
   - **[UMAP and Histplot.ipynb](./task/4_histplot.ipynb)**: "Clustering" representation of bursts with UMAP and histogram with bursts.
 - **[Python related content](.python)**: Codes, csv's, and abf's used for the tasks.
   - **[bursts .abf's](./python/bursting)**: abf files with the data to be studied.
-  - **[tasks codes](./python/codes)**: Python codes done for each task. (This the best for obtaining the original codes with betterexplanations)
+  - **[tasks codes](./python/codes)**: Python codes done for each task. Tthe best way to understand the codes is to download them and to create a new .py or .ipynb and interact there with the code and its explanations.
   - **[csv's](./python/csv)**: Files with data in CSV format.
 - **[Images of each of the projects/tasks](./Images_outputs)**: Images of the projects/tasks done (it was not possible to make them visible in .ipynb documents, so they have been stored in 4 files, each one corrresponfing to a project).
   - **[Task1 images](./Images_outputs/Task1)** 
