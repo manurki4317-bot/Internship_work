@@ -15,7 +15,7 @@ The repository is designed as a log of my progress throughout the internship. Ra
   - **[bursts .abf's](./python/bursting)**: abf files with the data to be studied.
   - **[tasks codes](./python/codes)**: Python codes done for each task.
   - **[csv's](./python/csv)**:Files with data in CSV format.
-- **[Images of each of the projects/tasks](./Images_outputs)**: Images of the projects/tasks done (it was not possible to make them visible in .ipynb documents, so they have been stored in 4 files, each one corrresponfing to a project)
+- **[Images of each of the projects/tasks](./Images_outputs)**: Images of the projects/tasks done (it was not possible to make them visible in .ipynb documents, so they have been stored in 4 files, each one corrresponfing to a project).
   - **[Task1 images](./Images_outputs/Task1)** 
   - **[Task2 images](./Images_outputs/Task2)**
   - **[Task3 images](./Images_outputs/Task3)**
