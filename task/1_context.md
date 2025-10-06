@@ -4,8 +4,8 @@ This repository focuses on visualizing and briefly explaining different methods 
 
 
 ## What has been done in the projects/tasks
-- Detect action potentials (*spikes*).  
-- Find burst patterns (*bursts*).  
+- Detect action potentials (spikes).  
+- Find burst patterns (bursts).  
 - Calculate basic stats (mean, ISI, area under curve, etc.).  
 - Classify activity by shape and timing.  
 - Explore conditions in reduced dimensions, among others
