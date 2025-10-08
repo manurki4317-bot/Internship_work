@@ -8,7 +8,7 @@ The repository is designed as a log of my progress throughout the internship. Ra
 - **[Tasks/proyects done](./task)**: Main notebooks of the projects.
   - **[Context](./task/1_context.md)**: Initial context of the analysis.
   - **[Resources and references](./task/2_Libraries_used.md)** Packages and libraries used. There are links to access to the information related to each library used.
-  - **[Visibility graph and 2D and 3D embedding.ipynb](./task/2_Visibility_embedding_graph.ipynb)**: Visibility graphs and embeddings.
+  - **[Visibility graph and 2D and 3D embedding.ipynb](./task/Task1.ipynb)**: Visibility graphs and embeddings.
   - **[Shapelets.ipynb](./task/3_Shapelets.ipynb)**: Shapelets analysis.
   - **[UMAP and Histplot.ipynb](./task/4_histplot.ipynb)**: "Clustering" representation of bursts with UMAP and histogram with bursts.
     
