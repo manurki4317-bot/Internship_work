@@ -4,13 +4,14 @@ This repository serves as a record of all the work I completed during my interns
 **Repository structure:**  
 The repository is designed as a log of my progress throughout the internship. Rather than providing introductory explanations of basic concepts, it focuses directly on the specific topics, analyses, and results that I worked on. This makes it a useful reference both for myself and for anyone interested in following the steps of the developed tasks.
 
+-**[User manual](./user_manual)** User manual
 
 - **[Tasks/proyects done](./task)**: Main notebooks of the projects.
   - **[Context](./task/1_context.md)**: Initial context of the analysis.
   - **[Resources and references](./task/2_Libraries_used.md)** Packages and libraries used. There are links to access to the information related to each library used.
   - **[Visibility graph and 2D and 3D embedding](./task/Task1.ipynb)**: Visibility graphs and embeddings.
-  - **[Shapelets](./task/Task2.ipynb)**: Shapelets analysis.
-  - **[UMAP and Histplot](./task/Task3.ipynb)**: "Clustering" representation of bursts with UMAP and histogram with bursts.
+  - **[UMAP and Histplot](./task/Task2.ipynb)**: Shapelets analysis.
+  - **[Shapelets](./task/Task3.ipynb)**: "Clustering" representation of bursts with UMAP and histogram with bursts.
   - **[Better UMAP identification](./task/Task4.ipynb):** A better"Clustering" representation of bursts with UMAP analysing "conflictive bursts areas" (still in progress). 
 
     
