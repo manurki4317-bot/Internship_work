@@ -13,22 +13,22 @@ The repository is organized as follows:
 
 | Folder / File | Description |
 |----------------|--------------|
-| **Context** | Provides the initial context of the analyses. |
-| **Resources and References** | Contains information about the packages and libraries used, including links to their documentation. |
-| **Visibility Graph and 2D/3D Embedding** | Includes notebooks related to visibility graph construction and 2D/3D embeddings. |
-| **UMAP and Histplot** | Focused on Shapelet analysis and visualization. |
-| **Shapelets** | Presents “clustering” representations of bursts using UMAP and histograms. |
-| **Better UMAP Identification** | Refined clustering and UMAP analysis for conflictive burst areas *(in progress)*. |
-| **Applications for Burst Identification and Evaluation** | Tools to compare anomalous bursts with their surroundings, allowing both quantitative and visual analysis. |
-| **Python Related Content** | Python scripts, CSV files, and `.abf` datasets used across tasks. |
-| **Images of Projects/Tasks** | Visual outputs of each project or task (stored in 4 folders — one per project). |
+| **[Context](./task/1_context.md):** | Provides the initial context of the analyses. |
+| **[Resources and references](./task/2_Libraries_used.md):** | Contains information about the packages and libraries used, including links to their documentation. |
+| **[Visibility graph and 2D and 3D embedding](./task/Task1.ipynb):** | Includes notebooks related to visibility graph construction and 2D/3D embeddings. |
+| **[UMAP and Histplot](./task/Task2.ipynb):** | Focused on Shapelet analysis and visualization. |
+| **[Shapelets](./task/Task3.ipynb):** | Presents “clustering” representations of bursts using UMAP and histograms. |
+| **[Better UMAP identification](./task/Task4.ipynb):** | Refined clustering and UMAP analysis for conflictive burst areas *(in progress)*. |
+| **[Applications for bursts identification and evaluation](./task/Task5.ipynb):** | Tools to compare anomalous bursts with their surroundings, allowing both quantitative and visual analysis. |
+| **[Python related content](.python)** | Python scripts, CSV files, and `.abf` datasets used across tasks. |
+| **[Images of each of the projects/tasks](./Images_outputs)** | Visual outputs of each project or task (stored in 4 folders — one per project). |
 
 Subfolders for images:
-- `Task1_images/`
-- `Task2_images/`
-- `Task3_images/`
-- `Task4_images/`
-- `Task5_images/`
+  - **[Task1 images](./Images_outputs/Task1)** 
+  - **[Task2 images](./Images_outputs/Task2)**
+  - **[Task3 images](./Images_outputs/Task3)**
+  - **[Task4 images](./Images_outputs/Task4)**
+  - **[Task5 images](./Images_outputs/Task5)** 
 
 
 ## Requirements
