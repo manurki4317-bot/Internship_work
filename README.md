@@ -12,7 +12,8 @@ The repository is designed as a log of my progress throughout the internship. Ra
   - **[Visibility graph and 2D and 3D embedding](./task/Task1.ipynb)**: Visibility graphs and embeddings.
   - **[UMAP and Histplot](./task/Task2.ipynb)**: Shapelets analysis.
   - **[Shapelets](./task/Task3.ipynb)**: "Clustering" representation of bursts with UMAP and histogram with bursts.
-  - **[Better UMAP identification](./task/Task4.ipynb):** A better"Clustering" representation of bursts with UMAP analysing "conflictive bursts areas" (still in progress). 
+  - **[Better UMAP identification](./task/Task4.ipynb):** A better"Clustering" representation of bursts with UMAP analysing "conflictive bursts areas" (still in progress).
+  - **[Better UMAP identification](./task/Task5.ipynb):** A better"Clustering" representation of bursts with UMAP analysing "conflictive bursts areas" (still in progress).
 
     
 - **[Python related content](.python)**: Codes, csv's, and abf's used for the tasks.
@@ -23,4 +24,5 @@ The repository is designed as a log of my progress throughout the internship. Ra
   - **[Task1 images](./Images_outputs/Task1)** 
   - **[Task2 images](./Images_outputs/Task2)**
   - **[Task3 images](./Images_outputs/Task3)**
-  - **[Task4 images](./Images_outputs/Task4)** 
+  - **[Task4 images](./Images_outputs/Task4)**
+  - **[Task5 images](./Images_outputs/Task5)** 
