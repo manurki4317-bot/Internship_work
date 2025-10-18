@@ -1,15 +1,13 @@
-# 🧭 User Manual – Internship Work Repository
+# User Manual – Internship Work Repository
 
-## 📘 Overview
+## Overview
 
 This repository serves as a record of all the work completed during an internship at **BCAM (Basque Center for Applied Mathematics)**.  
 It documents the progress, methodologies, and results developed across multiple analytical and computational tasks.
 
 Rather than covering introductory explanations or theoretical background, the focus lies on **specific analyses, visualizations, and applications** performed during the internship.
 
----
-
-## 📂 Repository Structure
+## Repository Structure
 
 The repository is organized as follows:
 
@@ -34,7 +32,7 @@ Subfolders for images:
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 To explore or reproduce the work, ensure the following environment:
 
@@ -57,7 +55,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 ### Running Notebooks
 1. Clone the repository:
@@ -73,7 +71,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧠 Project Topics Overview
+## Project Topics Overview
 
 | Topic | Description |
 |--------|--------------|
@@ -85,7 +83,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🖼️ Outputs
+## Outputs
 
 Each task or project includes:
 - Generated **plots and figures** (stored in `TaskX_images/`)
@@ -95,24 +93,23 @@ Each task or project includes:
 
 ---
 
-## 🧩 Notes
+## Notes
 
 - Not all image outputs are visible within the `.ipynb` preview on GitHub; the dedicated image folders ensure full access.
 - Some parts of the analysis (e.g., “Better UMAP identification”) are **ongoing work**.
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Manurki4317**  
 Internship at **BCAM (Basque Center for Applied Mathematics)**  
 GitHub: [manurki4317-bot](https://github.com/manurki4317-bot)
 
----
 
-## 📄 License
+## License
 
 This repository is intended for academic and research purposes.  
 If you use or refer to this work, please provide appropriate citation or acknowledgment.
 
----
+**This specific markdown was partially done with AI as a support tool.**
