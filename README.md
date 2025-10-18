@@ -13,7 +13,7 @@ The repository is designed as a log of my progress throughout the internship. Ra
   - **[UMAP and Histplot](./task/Task2.ipynb)**: Shapelets analysis.
   - **[Shapelets](./task/Task3.ipynb)**: "Clustering" representation of bursts with UMAP and histogram with bursts.
   - **[Better UMAP identification](./task/Task4.ipynb):** A better"Clustering" representation of bursts with UMAP analysing "conflictive bursts areas" (still in progress).
-  - **[Better UMAP identification](./task/Task5.ipynb):** A better"Clustering" representation of bursts with UMAP analysing "conflictive bursts areas" (still in progress).
+  - **[Applications for bursts identification and evaluation](./task/Task5.ipynb):** It compares "anomalous bursts" with burst from their surroundings, permitting also to analyse it visually.
 
     
 - **[Python related content](.python)**: Codes, csv's, and abf's used for the tasks.
