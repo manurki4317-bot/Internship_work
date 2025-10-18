@@ -30,7 +30,6 @@ Subfolders for images:
 - `Task4_images/`
 - `Task5_images/`
 
----
 
 ## Requirements
 
@@ -53,7 +52,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
----
 
 ## Usage
 
@@ -69,7 +67,6 @@ pip install -r requirements.txt
    ```
 3. Navigate to the notebook of interest and execute the cells sequentially.
 
----
 
 ## Project Topics Overview
 
@@ -81,7 +78,6 @@ pip install -r requirements.txt
 | **Enhanced UMAP Analysis** | Improved methods for detecting and visualizing conflictive burst zones. |
 | **Applications for Burst Evaluation** | Tools for comparing anomalous vs. normal bursts visually and quantitatively. |
 
----
 
 ## Outputs
 
@@ -91,14 +87,12 @@ Each task or project includes:
 - **Python scripts** implementing specific methods
 - **ABF files** representing electrophysiological data inputs
 
----
 
 ## Notes
 
 - Not all image outputs are visible within the `.ipynb` preview on GitHub; the dedicated image folders ensure full access.
 - Some parts of the analysis (e.g., “Better UMAP identification”) are **ongoing work**.
 
----
 
 ## Author
 
@@ -111,5 +105,7 @@ GitHub: [manurki4317-bot](https://github.com/manurki4317-bot)
 
 This repository is intended for academic and research purposes.  
 If you use or refer to this work, please provide appropriate citation or acknowledgment.
+
+
 
 **This specific markdown was partially done with AI as a support tool.**
