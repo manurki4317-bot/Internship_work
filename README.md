@@ -14,6 +14,7 @@ The repository is designed as a log of my progress throughout the internship. Ra
   - **[Shapelets](./task/Task3.ipynb)**: "Clustering" representation of bursts with UMAP and histogram with bursts.
   - **[Better UMAP identification](./task/Task4.ipynb):** A better"Clustering" representation of bursts with UMAP analysing "conflictive bursts areas" (still in progress).
   - **[Applications for bursts identification and evaluation](./task/Task5.ipynb):** It compares "anomalous bursts" with burst from their surroundings, permitting also to analyse it visually.
+  - **[Burst segmentation, feature extraction, and visualization](./task/Task6.ipynb)** It loads electrophysiology recordings, detects spikes and bursts, segments traces into burst types, extracts waveform features, reduces dimensionality using UMAP, and visualizes the results through static and interactive plots.
 
     
 - **[Python related content](.python)**: Codes, csv's, and abf's used for the tasks.
@@ -25,4 +26,5 @@ The repository is designed as a log of my progress throughout the internship. Ra
   - **[Task2 images](./Images_outputs/Task2)**
   - **[Task3 images](./Images_outputs/Task3)**
   - **[Task4 images](./Images_outputs/Task4)**
-  - **[Task5 images](./Images_outputs/Task5)** 
+  - **[Task5 images](./Images_outputs/Task5)**
+  - **[Task6 images](./Images_outputs/Task6)**
