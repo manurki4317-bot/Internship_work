@@ -1,0 +1,62 @@
+UMAP1,UMAP2,Burst_Type,DBSCAN_Label,LOF_Label,Outlier_DBSCAN,Outlier_LOF,Outlier_Consensus
+4.706962,12.0568695,Square Wave,-1,-1,True,True,True
+11.289279,3.414307,Non-burst,-1,1,True,False,True
+7.329415,6.342083,Non-burst,-1,1,True,False,True
+10.24833,3.2379596,Non-burst,-1,1,True,False,True
+11.005417,4.4620404,Non-burst,-1,1,True,False,True
+10.130983,3.2647457,Non-burst,-1,1,True,False,True
+10.702422,4.2302337,Non-burst,-1,1,True,False,True
+-2.09007,3.9518116,Square Wave,-1,-1,True,True,True
+-2.097605,3.9760919,Square Wave,-1,-1,True,True,True
+-2.8820653,3.2230318,Square Wave,11,-1,False,True,True
+-2.026537,3.970034,Square Wave,-1,-1,True,True,True
+-1.8651564,3.9846604,Square Wave,-1,-1,True,True,True
+-2.9275367,3.1111836,Square Wave,11,-1,False,True,True
+-2.920087,3.144313,Square Wave,11,-1,False,True,True
+-2.9221516,3.1363978,Square Wave,11,-1,False,True,True
+-2.9086504,3.1545267,Square Wave,11,-1,False,True,True
+-2.9354007,3.2148142,Square Wave,11,-1,False,True,True
+-2.909236,3.1533923,Square Wave,11,-1,False,True,True
+-2.1245916,3.9536145,Square Wave,-1,-1,True,True,True
+6.234244,10.806709,Other,14,-1,False,True,True
+12.299378,1.2275159,Parabolic,-1,1,True,False,True
+6.2356763,10.545458,Parabolic,-1,1,True,False,True
+6.254588,11.159595,Parabolic,14,-1,False,True,True
+6.2025385,10.297668,Parabolic,-1,1,True,False,True
+6.2815604,11.201773,Parabolic,14,-1,False,True,True
+5.9937205,11.4132395,Other,14,-1,False,True,True
+10.137879,3.2659802,Non-burst,-1,1,True,False,True
+3.1331182,8.187637,Square Wave,-1,1,True,False,True
+10.545374,4.49927,Non-burst,-1,1,True,False,True
+4.9424276,12.364022,Parabolic,1,-1,False,True,True
+10.628968,4.411834,Non-burst,-1,1,True,False,True
+10.090729,3.4794786,Non-burst,-1,1,True,False,True
+10.650904,4.341054,Non-burst,-1,1,True,False,True
+10.571185,4.4887924,Non-burst,-1,1,True,False,True
+10.1109295,3.705613,Non-burst,-1,1,True,False,True
+10.188717,3.6709168,Non-burst,-1,1,True,False,True
+9.971933,4.7724023,Non-burst,-1,1,True,False,True
+-0.2198076,8.060214,Square Wave,18,-1,False,True,True
+-0.3373177,8.151898,Square Wave,18,-1,False,True,True
+-0.35266647,8.162224,Square Wave,18,-1,False,True,True
+-0.31226382,8.116458,Square Wave,18,-1,False,True,True
+-0.39392856,8.201954,Square Wave,18,-1,False,True,True
+-0.28892878,8.09859,Square Wave,18,-1,False,True,True
+-0.36127383,8.188131,Square Wave,18,-1,False,True,True
+5.191256,8.733842,Parabolic,-1,1,True,False,True
+7.580579,6.728572,Non-burst,4,-1,False,True,True
+10.601254,4.8601294,Non-burst,-1,1,True,False,True
+3.213556,8.213686,Parabolic,-1,1,True,False,True
+7.564749,6.7190948,Non-burst,4,-1,False,True,True
+3.2205,8.212206,Other,-1,1,True,False,True
+5.0293536,12.811426,Parabolic,1,-1,False,True,True
+5.0041504,12.815906,Parabolic,1,-1,False,True,True
+8.459935,2.1035671,Non-burst,-1,-1,True,True,True
+8.8035555,1.9169208,Non-burst,-1,1,True,False,True
+6.247725,11.131657,Other,14,-1,False,True,True
+6.239094,11.107816,Parabolic,14,-1,False,True,True
+6.2669525,11.0759535,Other,14,-1,False,True,True
+12.309945,1.1169695,Parabolic,-1,1,True,False,True
+6.2550306,11.089506,Parabolic,14,-1,False,True,True
+8.8277645,1.8636119,Non-burst,-1,1,True,False,True
+6.2714624,10.951584,Other,14,-1,False,True,True
