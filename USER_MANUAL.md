@@ -50,11 +50,9 @@ To explore or reproduce the work, ensure the following environment:
   - `pyabf` (if used for electrophysiological data)
 
 Install dependencies:
-```bash
-pip install -r requirements.txt
+# Core numerical and scientific computing
+```bash pip install numpy scipy math
 ```
-
-
 ## Usage
 
 ### Running Notebooks
