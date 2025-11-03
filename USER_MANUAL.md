@@ -64,6 +64,7 @@ pip install numpy scipy math
 | **Shapelets & Clustering** | Identification and grouping of similar burst structures. |
 | **Enhanced UMAP Analysis** | Improved methods for detecting and visualizing conflictive burst zones. |
 | **Applications for Burst Evaluation** | Tools for comparing anomalous vs. normal bursts visually and quantitatively. |
+| **Burst analysis and clustering** | Obtention of more trustful data and both obtain the relevance of features in a model and cluster the burst. |
 
 
 ## Outputs
@@ -78,7 +79,7 @@ Each task or project includes:
 ## Notes
 
 - Not all image outputs are visible within the `.ipynb` preview on GitHub; the dedicated image folders ensure full access.
-- Some parts of the analysis (e.g., “Better UMAP identification”) are **ongoing work**.
+- Some parts of the analysis (e.g., "Better UMAP identification" or "Clustering bursts") are **ongoing work**.
 
 
 ## Author
