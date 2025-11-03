@@ -51,7 +51,8 @@ To explore or reproduce the work, ensure the following environment:
 
 Install dependencies:
 # Core numerical and scientific computing
-```bash pip install numpy scipy math
+```bash
+pip install numpy scipy math
 ```
 ## Usage
 
