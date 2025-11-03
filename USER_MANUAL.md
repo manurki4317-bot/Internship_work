@@ -20,6 +20,7 @@ The repository is organized as follows:
 | **[Shapelets](./task/Task3.ipynb):** | Presents “clustering” representations of bursts using UMAP and histograms. |
 | **[Better UMAP identification](./task/Task4.ipynb):** | Refined clustering and UMAP analysis for conflictive burst areas *(in progress)*. |
 | **[Applications for bursts identification and evaluation](./task/Task5.ipynb):** | Tools to compare anomalous bursts with their surroundings, allowing both quantitative and visual analysis. |
+| **[Burst clustering](./task/Task6.ipynb)** | Analysis of the features that affect the most to the burst classification, clustering in the most optimal way and find data patterns or interesting data for better bursts identification and/or clustering *(in progress, last thing was not possible to be done)*.
 | **[Python related content](.python)** | Python scripts, CSV files, and `.abf` datasets used across tasks. |
 | **[Images of each of the projects/tasks](./Images_outputs)** | Visual outputs of each project or task (stored in 4 folders — one per project). |
 
