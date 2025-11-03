@@ -12,6 +12,8 @@ I’ve put together some resources and references using Python. These are the ma
 
 [os](https://docs.python.org/3.10/library/os.html): Provides a way of interacting with the operating system.
 
+[math](https://docs.python.org/3/library/math.html): Provides basic mathematical functions and constants such as square root, trigonometric functions, and π.
+
 **Data handling and manipulation:**
 
 [pandas](https://pypi.org/project/pandas/): Data structures and analysis tools (DataFrame, Series).
@@ -32,15 +34,24 @@ I’ve put together some resources and references using Python. These are the ma
 
   r2_score for model evaluation.
 
+  metrics for additional evaluation metrics for regression and classification performance.
+  
 **Signal processing and electrophysiology**
 
 [pyABF](https://swharden.com/pyabf/): Specialized library to read and analyze Axon Binary Files (ABF) from electrophysiology experiments.
+[scipy.signal](https://www.askpython.com/python-modules/scipy-signal): Tools for signal processing, including filtering, Fourier transforms, and feature extraction.
 
 **Machine learning and dimensionality reduction**
 
 [UMAP](https://umap-learn.readthedocs.io/en/latest/): Dimensionality reduction and visualization technique.
 
 [TensorFlow/Keras](https://pypi.org/project/tf-keras/): Deep learning framework (used here with the Adam optimizer).
+
+[sklearn.cluster](https://scikit-learn.org/stable/api/sklearn.cluster.html): Algorithms for unsupervised clustering (e.g., K-Means, DBSCAN).
+
+[sklearn.ensemble](https://scikit-learn.org/stable/api/sklearn.ensemble.html): Ensemble learning methods such as Random Forests and Gradient Boosting.
+
+[sklearn.neighbors](https://scikit-learn.org/stable/modules/neighbors.html): Nearest-neighbor algorithms for classification, regression, and density estimation.
 
 **Graphs and network analysis**
 
