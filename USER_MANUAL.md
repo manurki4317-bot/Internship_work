@@ -37,8 +37,8 @@ Subfolders for images:
 
 To explore or reproduce the work, ensure the following environment:
 
-- **Language:** Python 3.8+
-- **Core Libraries:**
+- **Language:** Python 3.8+ in theory. In my case I used python 3.13.
+- **Core Libraries:** The ones that are most used
   - `numpy`
   - `pandas`
   - `matplotlib`
@@ -49,25 +49,11 @@ To explore or reproduce the work, ensure the following environment:
   - `neo` (for `.abf` file handling)
   - `pyabf` (if used for electrophysiological data)
 
-Install dependencies:
-# Core numerical and scientific computing
+Install libraries:
+# For almost each library this method will work, but this method can vary depending on the user.
 ```bash
 pip install numpy scipy math
 ```
-## Usage
-
-### Running Notebooks
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/manurki4317-bot/Internship_work.git
-   cd Internship_work
-   ```
-2. Open the desired Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-3. Navigate to the notebook of interest and execute the cells sequentially.
-
 
 ## Project Topics Overview
 
