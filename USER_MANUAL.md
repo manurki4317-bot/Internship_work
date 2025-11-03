@@ -28,7 +28,8 @@ Subfolders for images:
   - **[Task2 images](./Images_outputs/Task2)**
   - **[Task3 images](./Images_outputs/Task3)**
   - **[Task4 images](./Images_outputs/Task4)**
-  - **[Task5 images](./Images_outputs/Task5)** 
+  - **[Task5 images](./Images_outputs/Task5)**
+  - **[Task6 images](./Images_outputs/Task6)**
 
 
 ## Requirements
